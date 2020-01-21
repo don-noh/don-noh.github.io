@@ -4,4 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-## Work in Progress
+### Work in Progress
