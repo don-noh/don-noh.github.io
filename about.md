@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-PhD student in Economics
+phd student in economics
