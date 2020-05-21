@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Updated 1/21/2020.
+To be updated.
