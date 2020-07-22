@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a 3rd year PhD student in Economics.
+I am a 4th Year PhD Student in Economics.
