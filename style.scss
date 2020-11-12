@@ -74,11 +74,11 @@ p {
 }
 
 a {
-  color: #28a745;
+  color: #4c9141;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #28a745;
+    color: #4c9141;
   }
 }
 
@@ -231,14 +231,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #28a745;
+    color: #4c9141;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #28a745;
+      color: #4c9141;
     }
   }
 }
