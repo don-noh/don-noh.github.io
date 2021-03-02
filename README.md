@@ -1,6 +1,6 @@
 ## Academic Website
 
-Forked and modified for Don Noh's use. Many thanks to below works.
+Forked and modified for Don Noh's use. Many thanks to works listed below.
 
 ## Jekyll / Github Page
 
