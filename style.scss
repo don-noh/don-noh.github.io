@@ -220,7 +220,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
@@ -231,14 +231,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #28a745;
+    color: #202020;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #28a745;
+      color: #202020;
     }
   }
 }
